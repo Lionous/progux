@@ -1,0 +1,19 @@
+descomprimir en otra ruta	   	sudo tar -xf ideaIC-2024.1.gz -C /opt/apps/
+descomprimir en la misma ruta 	sudo tar -xf ideaIC-2024.1.gz
+
+
+desintalar programas:
+	sudo apt-get --purge remove nameprogram
+
+
+# ADD PATH
+ - ls la
+ - trabajar con bashrc
+ - sudo nano .bashrc 
+ - add path la ruta que deseas /usr/local/go/bin
+ - export PATH=$PATH:/usr/local/go/bin
+
+
+# Manjaro
+descomprimir en otra ruta	   	tar -xzf archivo.tar.gz -C /opt/apps/
+descomprimir en la misma ruta 	tar -xzf archivo.tar.gz

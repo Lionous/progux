@@ -1,0 +1,32 @@
+1 Actualizar el sistema:
+	sudo pacman -Syu
+	
+2 Instalar un paquete:
+	sudo pacman -S nombre_del_paquete
+	
+3 Buscar un paquete:
+	pacman -Ss término_de_búsqueda
+
+4 Eliminar un paquete:
+	sudo pacman -R nombre_del_paquete
+	
+5 Limpiar el caché de paquetes:
+	sudo pacman -Sc
+
+6 Buscar archivos en paquetes:
+	pacman -Fs nombre_del_archivo
+
+7 Ver información detallada de un paquete:
+	pacman -Si nombre_del_paquete
+	
+8 Ver paquetes instalados:
+	pacman -Q
+
+9 Actualizar la base de datos de paquetes:
+	sudo pacman -Sy
+	
+10 Mostrar información del sistema:
+	inxi -F
+
+
+Mission Center

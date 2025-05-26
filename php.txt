@@ -1,0 +1,7 @@
+una vez.. intalado php 
+
+ sudo apt-get install php8.3-xml php8.3-dom php8.3-curl
+
+ sudo apt-get install php-mysql 
+
+requiremiento para laravel

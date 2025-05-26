@@ -1,0 +1,14 @@
+# Hyperland
+
+pacman -S hyprland firefox kitty ranger
+
+
+## Teclados
+super + Q
+
+
+## Barra de tarea
+waybar :: barra de estado
+waybar & 
+
+

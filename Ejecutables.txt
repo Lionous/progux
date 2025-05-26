@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Categories=Development
+Name=DataGrip
+Icon=/opt/apps/idea-IC-241.14494.240/bin/idea.svg
+Exec=/opt/apps/idea-IC-241.14494.240/bin/idea.sh
+
+
+ruta: .local/share/applications

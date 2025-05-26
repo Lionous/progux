@@ -1,0 +1,40 @@
+Programs: Extension manager
+
+* app menu is back
+* auto activities
+* blur my shell
+* dash to dock
+* grand theft focus
+* just perfection
+* lock keys
+* logo menu
+* rouded window corners reborn
+
+* vitals
+* forge
+* focus
+* weather or not
+* Tilin Shell
+
+# Energy
+* power-profiles-daemon
+
+https://www.youtube.com/watch?v=IboO8-enxPk
+
+https://www.youtube.com/watch?v=_ZDib749AqM
+
+https://www.youtube.com/watch?v=KtjYPMCvQ7Y
+
+# Programs
+* mision center
+* tlp
+* kitty
+
+manjaro extensions optional
+* AppIndicator and KStatusNotifierItem Support
+* Custom Accent Colors
+* Gnome 4x UI Improvements
+* Legacy(GTK3) Themes Scheme Auto Switcher
+* Pacman Updates Indicator
+* User Themes
+* X11 Gstures
