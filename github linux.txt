@@ -1,3 +1,0 @@
-git remote set-url origin git@github.com:Lionnos/ApiTicketsSales.git
-
-git remote set-url origin https://github.com/Lionnos/ApiTicketsSales.git

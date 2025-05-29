@@ -1,2 +1,0 @@
-Permisos 
-sudo chmod -R +x /media/lionos/Lionos
